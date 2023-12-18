@@ -1,7 +1,7 @@
 # 21 MERN Search Engine using GraphQL
 
 ### GitHub repository:  	https://github.com/smokerdog57//mernBookSearch
-### Deployed app:		https://xxxx
+### Deployed app:		    https://mernbookdbv3-9c300272faad.herokuapp.com/
 
 ## Badges    
 ![github](https://img.shields.io/badge/github-Profile-lightgrey.svg)
@@ -40,7 +40,7 @@ This app is a book search engine with the ability to save favorite books. The ap
 
 ## Usage
 
-To run the app simply direct your browser to https://xxxx.
+To run the app simply direct your browser to https://mernbookdbv3-9c300272faad.herokuapp.com/
 
 ## Requirements
 
@@ -107,7 +107,7 @@ https://opensource.org/licenses/Artistic-2.0
 smokerdog57
 
 ### Github url
-https://github.com/smokerdog57/reactPortfolio
+https://github.com/smokerdog57//mernBookSearch
   
 ### Contact me
 email: smokerdog57@gmail.com
